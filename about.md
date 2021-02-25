@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a social scientist and professor of sociology getting started in the field of data science. I am a current graduate student in the Master of Science in Social Data Analytics & Research (SDAR) at the University of Texas at Dallas. I am also a sociology professor at Collin College in Frisco, TX. My research background and training is primarily in qualitative research. This site serves as a portfolio of my graduate program labs, projects and research interests.
+I am a social scientist and professor of sociology getting my start in the field of data science. I am a current graduate student in the Master of Science in Social Data Analytics & Research (SDAR) at the University of Texas at Dallas. I am also a sociology professor at Collin College in Frisco, TX. My research background and training is primarily in qualitative research. My GitHub page is the home for my education and learning in all things data science. This site is in progress and will serve as a portfolio of my graduate program labs, projects and research interests.
 
 My current research interests are in application of social media data analysis and machine learning to predict and track gentrification in urban neighborhoods.
 
