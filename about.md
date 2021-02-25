@@ -26,7 +26,7 @@ BA in Political Science - Texas A&M University - Kingsville
 
 ### More Information
 
-Outside of my academic and research interests, I also have personal interests in the the application of big data analysis and machine learning in the industrial hemp industry. I am a hemp farmer and COO of Hawley Hemp Labs, a family-owned and operated industrial hemp producer, processor, and analytical lab based in East Texas. I also lend my research and analysis skills to small businesses and startups seeking market research. As a social scientist, I am also passionate about the power of data science as a tool to promote social equity and help solve pressing social problems.
+Outside of my academic research interests, I am also exploring big data analysis and machine learning applications for the industrial hemp industry. I am a hemp farmer and executive of Hawley Hemp Labs, a family-owned and operated industrial hemp producer, processor, and analytical lab based in East Texas. I also lend my research and analysis skills to small businesses and startups seeking market research to scale up and reach new customers. As a social scientist, I am also passionate about the power of data science as a tool to promote social equity and help solve pressing social problems.
 
 ### Contact me
 
