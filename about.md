@@ -20,8 +20,8 @@ Developing expertise in: R, Python, Java, GIS, Tableau, SQL
 
 ### Education
 
-MS in Social Data Analytics & Research (SDAR) - University of Texas at Dallas 
-MS in Sociology - Texas A&M University - Kingsville 
+MS in Social Data Analytics & Research (SDAR) - University of Texas at Dallas <br>
+MS in Sociology - Texas A&M University - Kingsville <br>
 BA in Political Science - Texas A&M University - Kingsville 
 
 ### More Information
