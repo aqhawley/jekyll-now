@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a social scientist getting my formal start in the world of data science. I am a current student in the Master of Science in Social Data Analytics & Research (SDAR) program at the University of Texas at Dallas. I am also an associate faculty member of sociology at Collin College in Frisco, TX and a research consultant for small businesses. My background and training until recently have been in applied social science and qualitative research methods. I have experience as an analyst in state and local government, as well as in the private sector conducting market research for small businesses and startups. 
+I am a social scientist getting my formal start in the world of data science. I am a current student in the Master of Science in Social Data Analytics & Research (SDAR) program at the University of Texas at Dallas and an associate faculty member of sociology at Collin College in Frisco, TX. My background and training until recently have been in applied social science and qualitative research methods. My work experience consists of academic research and teaching, policy analysis in state and local government, and market research for small businesses and startups.
 
 This site is a work-in-progress and will serve as a portfolio of my graduate program lab assignments, current projects and other data science activities.
 
