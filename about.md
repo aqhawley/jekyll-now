@@ -10,7 +10,7 @@ This site is a work-in-progress and will serve as a portfolio of my graduate pro
 
 ### Interests
 
-My research interests are in neighborhood change, cultural and housing displacement, housing affordability, and other urban policy issues. Data mining, geospatial analysis, machine learning, web scraping, and data visualization are skills I am developing in my graduate coursework.
+My research interests are in neighborhood change, cultural and housing displacement, housing affordability, the suburbanization of poverty and other urban policy issues. Data mining, geospatial analysis, machine learning, web scraping, and data visualization are skills I am developing in my graduate coursework.
 
 My current research projects focus on the application of social media data analysis, geographic information science, and machine learning to predict and track gentrification in urban neighborhoods. It is my hope that these tools can be leveraged to better inform urban planners and policymakers about neighborhood change, and mitigate the harms of displacement.
 
