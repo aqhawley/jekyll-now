@@ -28,7 +28,7 @@ BA in Political Science - Texas A&M University - Kingsville
 
 Outside of my academic interests, I am also exploring big data analysis and machine learning applications for the industrial hemp industry. I am a hemp farmer and executive of Hawley Hemp Labs, a family-owned and operated industrial hemp producer, processor, and analytical lab based in East Texas. I also lend my research and analysis skills to small businesses and startups seeking to expand their businesses through data-driven planning and marketing strategies.
 
-As a social scientist, I am driven by the belief that data science is a critical tool to promote social equity and solve pressing social problems. I am an advocate for equitable and ethical data use, and the the use of data science to improve the lives of communities of color and marginalized groups.
+As a social scientist, I believe that data science is a critical tool to promote social equity and solve pressing social problems. I am an advocate for equitable and ethical data use, and the the use of data science to improve the lives of communities of color and marginalized groups.
 
 ### Contact me
 
